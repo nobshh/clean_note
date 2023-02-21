@@ -1,0 +1,1 @@
+export 'package:clean_note/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
